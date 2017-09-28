@@ -1,7 +1,8 @@
 {
   "autoload":{
     "psr-4": {
-      "Template\\": "Template/"
+      "Template\\": "Template/",
+      "Strategy\\": "Strategy/"
     }
   }
 }
